@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zamp_</title>
   
-  <subtitle>这是一个伟大的测试</subtitle>
+  <subtitle>一个伟大的测试</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-10T16:04:49.976Z</updated>
+  <updated>2022-11-14T08:57:37.032Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高考</title>
+    <link href="http://example.com/posts/9520.html"/>
+    <id>http://example.com/posts/9520.html</id>
+    <published>2022-11-14T08:32:35.929Z</published>
+    <updated>2022-11-14T08:57:37.032Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>我操他妈的<br>  要他妈高考了我操</p></blockquote><div class="tip "><p>default</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;夏至&quot;&gt;&lt;a href=&quot;#夏至&quot; class=&quot;headerlink&quot; title=&quot;夏至&quot;&gt;&lt;/a&gt;夏至&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;我操他妈的&lt;br&gt;  要他妈高考了我操&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;tip &quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
