@@ -64,6 +64,17 @@
     
     
     <entry>
+      <title>Music</title>
+      <link href="/music.html"/>
+      <url>/music.html</url>
+      
+        <content type="html"><![CDATA[<h2>Music</h2>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
