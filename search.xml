@@ -64,22 +64,22 @@
     
     
     <entry>
-      <title>Music</title>
-      <link href="/music.html"/>
-      <url>/music.html</url>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
       
-        <content type="html"><![CDATA[<h2>Music</h2>]]></content>
+        <content type="html"><![CDATA[{"name":"Zamp`Blog","short_name":"zamp","theme_color":"#F8A535","background_color":"#F8A535","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/manifest.json"/>
-      <url>/manifest.json</url>
+      <title>Music</title>
+      <link href="/music.html"/>
+      <url>/music.html</url>
       
-        <content type="html"><![CDATA[{"name":"Zamp`Blog","short_name":"zamp","theme_color":"#F8A535","background_color":"#F8A535","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+        <content type="html"><![CDATA[<p><h1>Music</h1><br><details class="toggle" ><summary class="toggle-button" style="">如何鉴赏音乐？</summary><div class="toggle-content"><p>什么都没有<br>！！！！！</p></div></details></p><p>你看我长得漂亮不</p><p><img src="https://images.alphacoders.com/662/662317.jpg" alt=""></p><p>我觉得很漂亮<img class="inline-img" src="https://images.alphacoders.com/662/662317.jpg" style="height:150px"/></p>]]></content>
       
     </entry>
     
