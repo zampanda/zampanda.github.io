@@ -1,65 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Zamp_</title>
+  <title>Zamp.</title>
   
   <subtitle>一个伟大的测试</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-14T15:55:38.345Z</updated>
+  <updated>2022-11-17T11:45:48.351Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>Zamp</name>
+    <name>Zamp_</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>吃饭</title>
-    <link href="http://example.com/posts/174947ec.html"/>
-    <id>http://example.com/posts/174947ec.html</id>
+    <title>美食</title>
+    <link href="http://example.com/posts/4856981.html"/>
+    <id>http://example.com/posts/4856981.html</id>
     <published>2022-11-14T15:53:04.282Z</published>
-    <updated>2022-11-14T15:55:38.345Z</updated>
+    <updated>2022-11-17T11:45:48.351Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="吃饭"><a href="#吃饭" class="headerlink" title="吃饭"></a>吃饭</h1><blockquote><p>我吃饭吃饭吃饭<br>  吃什么？</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="The-Food-amp-广州"><a href="#The-Food-amp-广州" class="headerlink" title="The Food&amp;广州"></a><strong>The Food&amp;广州</strong></h1><p><i class="iconfont icon-husky"></i><font size="4"><strong>Here’s G·O丨Green Orexis 新绿(花城汇北区店)</strong></font>  </p><h3 id="位于体育西的西餐厅"><a href="#位于体育西的西餐厅" class="headerlink" title="位于体育西的西餐厅"></a><i class="iconfont icon-shejiaotubiao-07"></i>位于体育西的西餐厅</h3><p><img class="inline-img" src="https://zamp-1257695152.cos.ap-guangzhou.myqcloud.com/wlop11.png" style="height:293px"/>.</p><h3 id="体育西A出口"><a href="#体育西A出口" class="headerlink" title="体育西A出口"></a><i class="iconfont icon-guangzhouditie"></i>体育西A出口</h3><p><img class="inline-img" src="https://zamp-1257695152.cos.ap-guangzhou.myqcloud.com/wlop21.png" style="height:300px"/>.</p><font size="3">打卡peace&love 886</font>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;吃饭&quot;&gt;&lt;a href=&quot;#吃饭&quot; class=&quot;headerlink&quot; title=&quot;吃饭&quot;&gt;&lt;/a&gt;吃饭&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;我吃饭吃饭吃饭&lt;br&gt;  吃什么？&lt;/p&gt;
-&lt;/blockquote&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;The-Food-amp-广州&quot;&gt;&lt;a href=&quot;#The-Food-amp-广州&quot; class=&quot;headerlink&quot; title=&quot;The Food&amp;amp;广州&quot;&gt;&lt;/a&gt;&lt;strong&gt;The Food&amp;amp;广州&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;&lt;</summary>
       
     
     
     
+    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="美食" scheme="http://example.com/tags/%E7%BE%8E%E9%A3%9F/"/>
     
   </entry>
   
   <entry>
-    <title>高考</title>
+    <title>生活</title>
     <link href="http://example.com/posts/174947ec.html"/>
     <id>http://example.com/posts/174947ec.html</id>
     <published>2022-11-14T08:32:35.929Z</published>
-    <updated>2022-11-14T15:53:34.133Z</updated>
+    <updated>2022-11-16T12:03:09.084Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>我操他妈的<br>  要他妈高考了我操</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>生活</p></blockquote>]]></content>
     
     
       
       
     <summary type="html">&lt;h1 id=&quot;夏至&quot;&gt;&lt;a href=&quot;#夏至&quot; class=&quot;headerlink&quot; title=&quot;夏至&quot;&gt;&lt;/a&gt;夏至&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;我操他妈的&lt;br&gt;  要他妈高考了我操&lt;/p&gt;
+&lt;p&gt;生活&lt;/p&gt;
 &lt;/blockquote&gt;
 </summary>
       
     
     
+    
+    <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
     <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -71,20 +72,22 @@
     <link href="http://example.com/posts/4a17b156.html"/>
     <id>http://example.com/posts/4a17b156.html</id>
     <published>2022-11-10T14:52:30.168Z</published>
-    <updated>2022-11-14T15:53:30.791Z</updated>
+    <updated>2022-11-17T09:38:08.813Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>以下是hexo自动生成的post,也是这里的第一篇内容。2022-11-17 明天他妈的期中考? 以此纪念。<br>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;以下是hexo自动生成的post,也是这里的第一篇内容。2022-11-17 明天他妈的期中考? 以此纪念。&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. C</summary>
       
     
     
     
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="技术" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
