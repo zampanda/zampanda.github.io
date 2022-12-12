@@ -29,31 +29,6 @@
     
     
     <entry>
-      <title>新闻</title>
-      <link href="/posts/f66b58e0.html"/>
-      <url>/posts/f66b58e0.html</url>
-      
-        <content type="html"><![CDATA[<p>这是新闻</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 新闻 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 新闻 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>理论</title>
       <link href="/posts/1f760e83.html"/>
       <url>/posts/1f760e83.html</url>
@@ -71,6 +46,31 @@
         <tags>
             
             <tag> 理论 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新闻</title>
+      <link href="/posts/f66b58e0.html"/>
+      <url>/posts/f66b58e0.html</url>
+      
+        <content type="html"><![CDATA[<p>这是新闻</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 新闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 新闻 </tag>
             
         </tags>
       
